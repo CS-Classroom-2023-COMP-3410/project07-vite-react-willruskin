@@ -7,11 +7,12 @@ function Header({ currentPage, onNavigate }) {
  marginBottom: '20px'
  };
 
- const navItems = [
+const navItems = [
  { id: 'home', label: 'Home' },
  { id: 'products', label: 'Products' },
- { id: 'profile', label: 'Profile' }
- ];
+ { id: 'profile', label: 'Profile' },
+ { id: 'cart', label: 'Cart' } 
+];
  return (
  <header style={navStyle}>
  <div style={{ fontWeight: 'bold', fontSize: '1.2rem' }}>
