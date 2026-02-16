@@ -5,7 +5,7 @@ React Component Refactor Assignment
 
 **Objectives**
 
-In this assignment, you'll build on your existing multi-page React project by:
+In this assignment, you'll build on your existing multi-page React project by:lakhlakdj
 
 1. Refactoring your shopping cart into a reusable component.
 2. Enhancing the user experience by making the cart visible on every page (when items are present).
